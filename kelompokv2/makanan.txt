@@ -1,0 +1,21 @@
+Makanan
+Popcorn
+25000
+Makanan
+Burger
+20000
+Makanan
+Hotdog
+20000
+Makanan
+Kentang Goreng
+10000
+Minuman
+Es Teh
+5000
+Minuman
+Kopi
+6000
+Minuman
+Cola
+7000

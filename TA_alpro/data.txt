@@ -1,0 +1,10 @@
+1
+Merek : lenovo
+Ukuran : 12
+Resolusi : 1
+Harga : 45000
+2
+Merek : lenovo 2
+Ukuran : 3
+Resolusi : 6
+Harga : 88000
